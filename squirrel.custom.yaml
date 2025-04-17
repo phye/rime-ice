@@ -8,3 +8,9 @@ patch:
       ascii_mode: true
     org.gnu.Emacs:
       ascii_mode: true
+    com.google.Chrome:
+      ascii_mode: true
+    com.google.Chrome.beta:
+      ascii_mode: true
+    com.microsoft.edgemac:
+      ascii_mode: true
