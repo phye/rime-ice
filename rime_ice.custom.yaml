@@ -1,4 +1,12 @@
 patch:
-  punctuator/symbols:
-    'vbq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
-    'vzw': [【, 】, ── ] 
+  recognizer/patterns/punct: "^[/v]([0-9]|10|[A-Za-z]+)$"
+
+  speller:
+    alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`/
+    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/
+
+  punctuator/symbols/+:
+    '/zw': [【, 】, ── ]
+    '/bq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
+  punctuator/symbols/vbq: [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
+  punctuator/symbols/vzw: [【, 】, ── ] 
