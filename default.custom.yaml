@@ -1,4 +1,7 @@
 patch:
+  schema_list:
+    - schema: rime_ice               # 雾凇拼音（全拼）
+    - schema: t9                     # 九宫格（仓输入法）
   menu:
     page_size: 9
   key_binder/bindings/+:
