@@ -1,2 +1,10 @@
 patch:
   style/candidate_list_layout: linear
+
+  app_options:
+    com.runningwithcrayons.Alfred-3:
+      ascii_mode: true
+    com.googlecode.iterm2:
+      ascii_mode: true
+    org.gnu.Emacs:
+      ascii_mode: true
