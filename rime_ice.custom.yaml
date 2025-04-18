@@ -11,4 +11,4 @@ patch:
     '/bq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
     'vbq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
 
-  translator/enable_correction: true 
+  translator/enable_correction: false
