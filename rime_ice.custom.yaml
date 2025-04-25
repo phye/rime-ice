@@ -12,3 +12,5 @@ patch:
     'vbq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
 
   translator/enable_correction: false
+
+  custom_phrase/user_dict: custom_phrase_phye

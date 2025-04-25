@@ -1,0 +1,14 @@
+# Rime table
+# coding: utf-8
+#@/db_name	custom_phrase.txt
+#@/db_type	tabledb
+#
+# 自定义短语
+# 可为方案增加一些要置顶的词汇及短语，例如邮箱、手机号、常用短语等等。编码可以随便起，不限于拼音。
+
+PrivateLink	priv
+情况	qk
+哈哈	hh
+15921574927	sj
+上海市闵行区顾戴路1199弄36号202室	dz
+
