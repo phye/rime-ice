@@ -2,14 +2,38 @@ patch:
   recognizer/patterns/punct: "^[/v]([0-9]|10|[A-Za-z]+)$"
 
   speller:
-    alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`/
-    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/
+    alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`
+    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
 
   punctuator/symbols/+:
-    '/zw': [【, 】, ── ]
     'vzw': [【, 】, ── ]
-    '/bq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
     'vbq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
+
+  punctuator:
+    half_shape:
+      ",": [",", "，" ]
+      ".": [".", "。", "..."]
+      "!": ["!", "！"]
+      "@": "@"
+      "#": "#"
+      "$": "$"
+      "%": "%"
+      "^": "^"
+      "&": "&"
+      "*": "*"
+      "(": "("
+      ")": ")"
+      "_" : "_"
+      "`": "`"
+      "~": "~"
+      "=": "="
+      "[": "["
+      "]": "]"
+      '\': "、"
+      "|": "|"
+      "'": "'"
+      "<": "<"
+      ">": ">"
 
   translator/enable_correction: false
 

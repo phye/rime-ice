@@ -19,3 +19,4 @@ patch:
     - { when: composing, accept: Control+y, send: Page_Up }
     - { when: composing, accept: Alt+v, send: Page_Up }
     - { when: composing, accept: Control+v, send: Page_Down }
+    - { when: always, accept: Control+period, toggle: ascii_punct }
