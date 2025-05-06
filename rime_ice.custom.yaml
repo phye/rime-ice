@@ -9,32 +9,15 @@ patch:
     'vzw': [【, 】, ── ]
     'vbq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
 
+  translator/enable_correction: false
+  custom_phrase/user_dict: custom_phrase_phye
   punctuator:
     half_shape:
-      ",": [",", "，" ]
-      ".": [".", "。", "..."]
-      "!": ["!", "！"]
-      "@": "@"
-      "#": "#"
-      "$": "$"
-      "%": "%"
-      "^": "^"
-      "&": "&"
-      "*": "*"
-      "(": "("
-      ")": ")"
-      "_" : "_"
-      "`": "`"
-      "~": "~"
-      "=": "="
-      "[": "["
-      "]": "]"
-      '\': "、"
-      "|": "|"
-      "'": "'"
-      "<": "<"
-      ">": ">"
-
-  translator/enable_correction: false
-
-  custom_phrase/user_dict: custom_phrase_phye
+      ',': [',', '，' ]
+      '.': ['.', '。', '...']
+      '!': ['!', '！']
+      '[': ['[', '【']
+      ']': [']', '】']
+      '\': '、'
+      '_': ['_', '──']
+      '''': '''' # yaml treat double single quote '' as single quote '
