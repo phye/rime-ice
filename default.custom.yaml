@@ -6,17 +6,6 @@ patch:
   menu:
     page_size: 9
 
-  punctuator:
-    half_shape:
-      ',': [',', '，' ]
-      '.': ['.', '。', '...']
-      '!': ['!', '！']
-      '[': ['[', '【']
-      ']': [']', '】']
-      '\': '、'
-      '_': ['_', '──']
-      '''': '''' # yaml treat double single quote '' as single quote '
-
   key_binder/bindings/+:
     - { when: composing, accept: Control+p, send: Up }
     - { when: composing, accept: Control+n, send: Down }
