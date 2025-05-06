@@ -2,8 +2,21 @@ patch:
   schema_list:
     - schema: rime_ice               # 雾凇拼音（全拼）
     - schema: t9                     # 九宫格（仓输入法）
+
   menu:
     page_size: 9
+
+  punctuator:
+    half_shape:
+      ',': [',', '，' ]
+      '.': ['.', '。', '...']
+      '!': ['!', '！']
+      '[': ['[', '【']
+      ']': [']', '】']
+      '\': '、'
+      '_': ['_', '──']
+      '''': '''' # yaml treat double single quote '' as single quote '
+
   key_binder/bindings/+:
     - { when: composing, accept: Control+p, send: Up }
     - { when: composing, accept: Control+n, send: Down }
@@ -15,8 +28,4 @@ patch:
     - { when: composing, accept: Control+k, send: Shift+Delete }
     - { when: composing, accept: Control+h, send: BackSpace }
     - { when: composing, accept: Control+g, send: Escape }
-    - { when: composing, accept: Control+bracketleft, send: Escape }
-    - { when: composing, accept: Control+y, send: Page_Up }
-    - { when: composing, accept: Alt+v, send: Page_Up }
-    - { when: composing, accept: Control+v, send: Page_Down }
-    - { when: always, accept: Control+period, toggle: ascii_punct }
+
