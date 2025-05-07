@@ -16,8 +16,10 @@ patch:
       '!': ['!', '！']
       '[': ['[', '【']
       ']': [']', '】']
-      '\': '、'
+      '\': ['\', '、']
       '_': ['_', '──']
+      ';': [';', '；']
+      ':': [':', '：']
       '''': '''' # yaml treat double single quote '' as single quote '
 
   translator/enable_correction: false

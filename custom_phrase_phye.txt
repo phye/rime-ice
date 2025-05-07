@@ -23,3 +23,11 @@ vk8s	vk
 vk8s	vkb
 可以	ky
 可以	kyi
+H20	gpu	10
+A100	gpu	9
+H100	gpu	8
+V100	gpu	7
+A10	gpu	6
+T4	gpu	5
+A800	gpu	4
+H800	gpu	3
