@@ -37,3 +37,5 @@ A10	gpu	6
 T4	gpu	5
 A800	gpu	4
 H800	gpu	3
+企微	qw	10
+企微	qiwei	10
