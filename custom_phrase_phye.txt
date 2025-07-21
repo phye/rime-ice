@@ -18,13 +18,14 @@ phye.pro@gmail.com	email	8
 哈哈哈	hhha
 呵呵呵	hhhe
 哈哈哈哈	hhhh
+好的	hd
 P2P	ptp
 清楚	qc
 情况	qk
 情况	qkuang
 青青	qq
 谢谢	xx
-吧	ba	579828
+吧	ba	9999999
 vk8s	vk
 vk8s	vkb
 可以	ky
@@ -39,3 +40,8 @@ A800	gpu	4
 H800	gpu	3
 企微	qw	10
 企微	qiwei	10
+P0	pr	10
+P1	pr	9
+P2	pr	8
+P3	pr	7
+模板	moban	10
