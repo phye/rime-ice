@@ -47,3 +47,4 @@ P3	pr	7
 模板	moban	10
 元器	yuanqi	999
 根因	genyin
+废弃	fq
