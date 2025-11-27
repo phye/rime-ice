@@ -7,7 +7,7 @@ patch:
 
   punctuator/symbols/+:
     'vzw': [【, 】, ── ]
-    'vbq': [👍, 😂️, 🌹, 👌, 😱️, 🤝️, 🤭, 🤔️, 🤗]
+    'vbq': [👍,😂️,🌹,👌,😱️,🤜🤛,🤭,🤔️,🤗]
 
   punctuator/half_shape:
     ',': [',', '，' ]
