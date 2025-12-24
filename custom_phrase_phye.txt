@@ -48,3 +48,5 @@ P3	pr	7
 元器	yuanqi	999
 根因	genyin
 废弃	fq
+k8s	kbs	10
+Kubernetes	kbs	9
