@@ -25,7 +25,8 @@ P2P	ptp
 情况	qkuang
 青青	qq
 谢谢	xx
-吧	ba	9999999
+吧	ba	100
+吧	bb	100
 vk8s	vk
 vk8s	vkb
 可以	ky
@@ -50,3 +51,4 @@ P3	pr	7
 废弃	fq
 k8s	kbs	10
 Kubernetes	kbs	9
+prometheus	prom	9
