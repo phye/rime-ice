@@ -6,12 +6,20 @@
 # 自定义短语
 # 可为方案增加一些要置顶的词汇及短语，例如邮箱、手机号、常用短语等等。编码可以随便起，不限于拼音。
 
-PrivateLink	priv
+# personal info
 15921574927	sjh
-上海市闵行区顾戴路1199弄36号202室	dz
+15821035869	sjh
+13758184298	sjh
+330127198706022913	sfz
+上海市闵行区顾戴路1199弄36号202室	dz	10
+浙江省淳安县千岛湖镇排岭北路54号4单元401室	dz	9
+浙江省淳安县叶家村144号	dz	8
 semimiracle@gmail.com	email	10
 phye8080@gmail.com	email	9
 phye.pro@gmail.com	email	8
+
+# my custom phrases
+PrivateLink	priv
 看一下	kyx
 哈哈	hh
 哈哈	hha
