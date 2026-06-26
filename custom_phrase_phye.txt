@@ -17,6 +17,8 @@
 semimiracle@gmail.com	email	10
 phye8080@gmail.com	email	9
 phye.pro@gmail.com	email	8
+李家坞	lijiawu
+向阳巷	xiangyangxiang
 
 # my custom phrases
 PrivateLink	priv
@@ -60,3 +62,5 @@ P3	pr	7
 k8s	kbs	10
 Kubernetes	kbs	9
 prometheus	prom	9
+squashed	sq	100
+merged	mg	100
